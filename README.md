@@ -33,6 +33,7 @@ Before you begin, ensure you have met the following requirements:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/devBot.git](https://github.com/YOUR_USERNAME/devBot.git)
 cd Dev Bot
+```
 
 ---
 
